@@ -1,0 +1,5 @@
+{
+  "name": "Markdown Converter",
+  "description": "A web application that transcribes plain text to Markdown format using the Gemini API and allows downloading the result as a .md file.",
+  "requestFramePermissions": []
+}
